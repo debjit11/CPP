@@ -49,7 +49,7 @@ int main() {
 
     int arr[] = {1,2,3,4,5};
     int size = 5;
-    int count = 0;
+    int count = 0; 
 
     countEvenNum(arr,size,count); 
     cout << "Even Number count: " << count << endl;

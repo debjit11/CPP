@@ -46,3 +46,4 @@ int main() {
     cout << ***dtr << endl;
     return 0;
 }
+// Pointers are variables that store the memory address of another variable. This allows for efficient manipulation and management of arrays and dynamic data structures.

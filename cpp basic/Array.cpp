@@ -26,7 +26,7 @@ using namespace std ;
 
     // for (int index = 0; index <=4; index ++){
     //     cout << arr[index] << " ";
-    // // }
+    // }
     // int arr[10] = {2,4,6,8,10,12,14,16,18,20};
     // int sum = 0;
     // for (int index = 0; index <=9; index ++){
