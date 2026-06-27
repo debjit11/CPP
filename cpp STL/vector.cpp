@@ -74,4 +74,10 @@ int main(){
     // int total_rows = arr.size();
     // int total_cols = arr[0].size();
 
+    vector<vector<int>> brr (5);
+    brr[0] = vector<int>(5); // Creates 5 integers in row 0.
+    brr[1] = vector<int>(4); 
+    brr[2] = vector<int>(3);
+    brr[3] = vector<int>(1);
+
 }
