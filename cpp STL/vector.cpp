@@ -51,7 +51,7 @@ int main(){
     second.push_back(89);
     second.push_back(12);
 
-    // first.swap(second);
+    first.swap(second);
 
     // cout << first[0] << " " << first[1] << " "  << first[2] << " "  << first[3] << endl;
     //  for (int i : first) {

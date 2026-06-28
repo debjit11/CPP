@@ -24,14 +24,39 @@ int main(){
     //     it ++ ;
     // }
 
-    // mylist[1] = 34;
-    list<int>::iterator it = mylist.begin();
+   
+    list <int> first;
+    list <int> second;
+    first.push_back(41);
+    first.push_back(45);
+    first.push_back(14);
+    first.push_back(54);
 
-    while (it != mylist.end())
+    list<int>::iterator it = first.begin();
+    cout << "First List:" << endl;
+
+    while (it != first.end())
     {
         cout << *it << endl;
         it ++ ;
     }
+    
+    second.push_back(77);
+    second.push_back(87);
+    second.push_back(89);
+    second.push_back(12);
+    
+    first.swap(second);
+    cout << "\nAfter Swap (First List):" << endl;
+  
+    list<int>::iterator it2 = first.begin();
+
+    while (it2 != first.end())
+    {
+        cout << *it2 << endl;
+        it2 ++ ;
+    }
+
 
     
 }
