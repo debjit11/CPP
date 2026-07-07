@@ -30,7 +30,7 @@ int main() {
 queue <int> first;
 queue <int> second;
 
-first.push(30);
+first.push(30);                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
 first.push(20);
 first.push(10);
 
