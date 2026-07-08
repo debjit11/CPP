@@ -19,9 +19,9 @@ int main () {
 
 // auto it = upper_bound(arr.begin(), arr.end(),35);
 //     cout << *it << endl ;
-// vector<int> arr1 = {10, 20, 30, 35, 35, 35, 40, 50};
+vector<int> arr1 = {10, 20, 30, 35, 35, 35, 40, 50};
 
-// auto it = equal_range(arr1.begin(), arr1.end(),35); // returns both the lower bound and upper bound in a single function call.
-//     cout << "Lower Bound: " << *it.first << endl ;
-//     cout << "Upper Bound: " <<  *it.second << endl ;
+auto it = equal_range(arr1.begin(), arr1.end(),35); // returns both the lower bound and upper bound in a single function call.
+    cout << "Lower Bound: " << *it.first << endl ;
+    cout << "Upper Bound: " <<  *it.second << endl ;
 }
