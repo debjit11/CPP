@@ -28,7 +28,7 @@ int main() {
 
     //deletion
     pop_heap(arr.begin(), arr.end());
-    arr.pop_back();
+    arr.pop_back();                                                           
 
     sort_heap(arr.begin(), arr.end()); 
     for(int a: arr) {
