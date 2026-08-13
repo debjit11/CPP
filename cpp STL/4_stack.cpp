@@ -37,4 +37,5 @@ second.push(100);
 first.swap(second);
 cout << first.top() << " "  << endl ;
 
+
 }
