@@ -33,6 +33,7 @@ int main() {
     sort_heap(arr.begin(), arr.end()); 
     for(int a: arr) {
         cout << a << " ";
+        
     }cout << endl;
 
 
