@@ -27,6 +27,7 @@ int main() {
  second.push_back(2);
  second.push_back(3);
  second.push_back(15);
+ 
 
  int product = inner_product(first.begin(),first.end(),second.begin(),0);
 
