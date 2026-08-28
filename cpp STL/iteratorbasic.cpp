@@ -69,6 +69,7 @@ int main(){
     
 // }
   //random access iterator 
+  
 vector <int> :: iterator it = arr.begin() + 2;
 cout << *it << " ";
 
