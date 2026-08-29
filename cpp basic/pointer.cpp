@@ -24,6 +24,7 @@ int main() {
     // cout << sizeof(arr) << endl;
     // solve(arr);
 
+    
         int a = 5;
     int *ptr = &a;
     int **ctr = &ptr;
