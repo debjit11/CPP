@@ -27,6 +27,7 @@ int main(){
      case 7: cout << "Saterday"<< endl;
         
         break;
+        
      
      default: cout << "Give currect day number ex: 1 to 7 "<< endl; 
         
