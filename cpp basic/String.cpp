@@ -2,6 +2,7 @@
 using namespace std ;
 
 int main(){
+    
     // decalre
     string name ;
     name.push_back('D');
