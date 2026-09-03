@@ -85,6 +85,7 @@ int main(){
     // printarray(arr,size);
     // cout << endl;
 
+    
      int arr[3][4] = {
         {12, 30, 21, 40},
         {10, 31, 40, 51},
