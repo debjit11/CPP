@@ -55,6 +55,7 @@ int main(){
     // Student s;
 //Dynamic way
     // Student *s = new Student();
+    
 //Static way    
     // Student y(10,25,65,"Debjit");
 //Dynamic way
