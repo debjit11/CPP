@@ -28,7 +28,8 @@ int main(){
         
         break;
         
-     
+ 
+        
      default: cout << "Give currect day number ex: 1 to 7 "<< endl; 
         
      }
