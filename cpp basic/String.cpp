@@ -18,6 +18,7 @@ int main(){
 
     //append 
     name.append(sarname);
+    
     cout << name << endl;
 
     //insert 
