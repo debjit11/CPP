@@ -15,7 +15,7 @@ int main(){
  marks.push_back(30);
  marks.push_back(36);
 //  marks.pop_back(); // remove the last element
-//  cout << *(marks.begin()) <<" "<<  endl; // find the fast elemet
+//  cout << *(marks.begin()) <<" "<<  endl; // find the fast elemet ("Go to that position and give me the actual value.")
 //  cout << (marks.back()) <<" "<<  endl; // access the last elemet
 //  cout << (marks.front()) <<" "<<  endl; // access the fast elemet
 //  cout << marks.size() <<  endl; // find the size of array

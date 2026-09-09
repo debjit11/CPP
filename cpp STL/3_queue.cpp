@@ -1,5 +1,5 @@
 #include <iostream>
-#include <queue>
+#include <queue> // people standing in a line
 
 using namespace std ;
  
