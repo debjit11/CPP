@@ -16,6 +16,7 @@ int main () {
     arr[1] = 20;
     arr[2] = 30;
     arr[3] = 40;
+    
     // arr[4] = 50;
     // auto it = min_element(arr.begin(),arr.end());
     // cout << *it << endl;
